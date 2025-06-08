@@ -2,7 +2,8 @@
 
 **Task.fan** is your AI assistant that lives in the browser’s sidepanel. It understands your intent, navigates websites, and executes tasks with a single command — all while explaining each action. Powered by ChatGPT, Gemini, and Anthropic Claude.
 
-![Task.fan Logo](public/icon-128.png)
+![ChatGPT Image Jun 9, 2025, 01_01_21 AM](https://github.com/user-attachments/assets/1b6570ef-c438-4dc2-95b5-13f1423cee4c)
+
 
 ---
 

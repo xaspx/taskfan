@@ -1,0 +1,1 @@
+async function s(){return new Promise((o,n)=>{navigator.mediaDevices.getUserMedia({audio:!0}).then(e=>{console.log("Microphone access granted"),e.getTracks().forEach(function(i){i.stop()}),o()}).catch(e=>{console.error("Error requesting microphone permission",e),e.name==="Permission denied"?n(new Error("MICROPHONE_PERMISSION_DENIED")):n(e)})})}s();

@@ -1,0 +1,1 @@
+.web-agent-ripple{position:absolute;border-radius:50%;transform:scale(0);animation:web-agent-ripple .5s ease-out;background-color:#0000fff5;pointer-events:none;z-index:999999}@keyframes web-agent-ripple{to{transform:scale(3);opacity:0}}

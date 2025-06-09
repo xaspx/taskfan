@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo & Extension
 
-📽️ [Watch Demo](https://github.com/normal-computing/fuji-web/assets/1001890/88a2fa12-31d9-4856-be67-27dcf9f1e634)  
+📽️ [Watch Demo](https://youtu.be/eNCHXlxvdzo) 
 🧩 [Download Extension (ZIP)](https://github.com/xaspx/taskfan/releases)
 
 ---
